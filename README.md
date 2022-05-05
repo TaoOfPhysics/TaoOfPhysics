@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TaoOfPhysics
 - 👀 I’m interested in ... Onewheel XR  
 - 🌱 I’m currently learning ... OWIE
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Wemos D1 Mini Lite.
 - 📫 How to reach me ...
 
 <!---
